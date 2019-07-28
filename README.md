@@ -1,1 +1,2 @@
-# harry-potter-autonomous-intelligent-agents-bots-game
+# Harry Potter
+## Autonomous and Intelligent Agents'/Bots' Game (Books and Movies)
